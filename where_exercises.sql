@@ -27,3 +27,15 @@ select *
         where first_name
             in ('Irena', 'Vidya','Maya')
             and gender = 'M';
+
+#3. Find all employees whose last name starts or ends with 'E' — 30,723 rows.
+select *
+from employees
+where last_name
+          like 'E%';
+
+#4. Duplicate the previous query and update it to find all employees whose last name starts and ends with 'E' — 899 rows.
+select *
+from employees
+where last_name
+          like 'E%e';
