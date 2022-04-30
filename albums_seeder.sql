@@ -1,7 +1,7 @@
 #   We are going to be using codeup_test_db
 USE codeup_test_db;
 
-#   this is going to show us the collums of the table albums;
+#   this is going to show us the columns of the table albums;
 describe albums;
 #   Doing this shows that there is nothing in the album tables
 select * from albums;
@@ -18,10 +18,10 @@ VALUES
     ('eagles', 'their greatest hits', 1922, 41200000, 'rock'),
     ('pink floyd', ' the dark side of the moon', 1973, 24400000, 'rock'),
     ('eagles', 'Hotel California', 1976, 31500000, 'rock'),
-    ('bees gees',' saturday night feaver', 1977, 21600000, 'disco'),
+    ('bees gees',' saturday night fever', 1977, 21600000, 'disco'),
     ('fleetwood mac', 'rumours', 1977, 27900000,'rock'),
     ('shania twain', 'come on over', 1997,29600000,'pop'),
-    ('led zeppelin ','led zepplin iv', 1971, 14400000, 'rock'),
+    ('led zeppelin ','led zeppelin iv', 1971, 14400000, 'rock'),
     ('micheal jackson', 'bad',1987, 21100000, 'pop' ),
     ('alanis morissette', 'jagged little pill', 1995, 24300000, 'alternative'),
     ('micheal jackson', 'dangerous', 1991, 17000000, 'pop '),
