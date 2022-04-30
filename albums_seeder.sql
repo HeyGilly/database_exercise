@@ -11,7 +11,7 @@ select * from albums;
 #   don't worry about that for now
 INSERT INTO albums (artist, name, release_date, sales, genre)
 VALUES
-    ('micheal jackson', 'thriller', 1982, 49200000, 'pop'),
+    ('michael jackson', 'thriller', 1982, 49200000, 'pop'),
     ('AC/DC', 'back in black', 1980,29500000,'rock'),
     ('whitney houston', 'the bodyguard',1992,32400000,'R&B'),
     ('meat loaf', 'bat out of hell', 1977, 21700000, 'rock'),
@@ -22,9 +22,9 @@ VALUES
     ('fleetwood mac', 'rumours', 1977, 27900000,'rock'),
     ('shania twain', 'come on over', 1997,29600000,'pop'),
     ('led zeppelin ','led zeppelin iv', 1971, 14400000, 'rock'),
-    ('micheal jackson', 'bad',1987, 21100000, 'pop' ),
+    ('michael jackson', 'bad',1987, 21100000, 'pop' ),
     ('alanis morissette', 'jagged little pill', 1995, 24300000, 'alternative'),
-    ('micheal jackson', 'dangerous', 1991, 17000000, 'pop '),
+    ('michael jackson', 'dangerous', 1991, 17000000, 'pop '),
     ('celine dion', 'falling into you', 1996, 21100000, 'pop'),
     ('the beatles', 'sgt. peppers lonely hearts club band', 1967,18200000,'rock'),
     ('elton john', 'goodbye yellow brick road', 1973, 85000000, 'rock'),
@@ -45,3 +45,9 @@ VALUES
 
 #   Doing this shows that the values have been added to the table;
 select * from albums;
+
+
+####    Basic Statements - Add a TRUNCATE to delete all records from the table
+TRUNCATE  albums;
+###     now its clear- restart
+SELECT * FROM albums;
