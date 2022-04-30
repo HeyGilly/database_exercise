@@ -41,7 +41,7 @@ VALUES
     ('metallica', 'metallica', 1991, 25200000, 'metal'),
     ('celine dion', 'lets talk about love', 1997, 19300000, 'pop'),
     ('adele', '21', 2011, 26400000, 'pop'),
-    ('various artists', 'dirty dancing', 1987, 179000000, 'pop')
+    ('various artists', 'dirty dancing', 1987, 179000000, 'pop');
 
 #   Doing this shows that the values have been added to the table;
 select * from albums;
