@@ -2,8 +2,11 @@
 
 ## Key Points
 - Tables
-  - [X] Creation of Database Exercise project
-  - [X] albums Migration
+  
+## RoadMap
+- [X] Creation of Database Album Migration
+    - [X] run first command `USE codeup_test_db;`
+    - [ ] drop table `albums`
 - Basic Statements
   - [X] Album Seeder
   - [ ] Select Exercise
