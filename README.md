@@ -14,4 +14,6 @@
   - [X] Use the UPDATE command to update records in our albums table
   - [X] Use the DELETE statement to remove records from our database
 - Where
-  - [ ] Query our sample database using the WHERE clauses
+  - [X] Query our sample database using the WHERE clauses
+- Order
+  - [ ] Use ORDER BY clauses to create more complex queries for our database
