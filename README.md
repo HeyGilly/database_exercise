@@ -16,4 +16,6 @@
 - Where
   - [X] Query our sample database using the WHERE clauses
 - Order
-  - [ ] Use ORDER BY clauses to create more complex queries for our database
+  - [X] Use ORDER BY clauses to create more complex queries for our database
+- Limit
+  - [ ] Add the LIMIT clause to our existing queries
