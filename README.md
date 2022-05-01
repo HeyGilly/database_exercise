@@ -11,5 +11,7 @@
 - Basic Statements
   - [X] Write a seeder script using INSERT statements to add data to our databases
   - [X] Use the SELECT statement and the WHERE to output various information about our albums table
-  - [ ] Use the UPDATE command to update records in our albums table
-  - [ ] Use the DELETE statement to remove records from our database
+  - [X] Use the UPDATE command to update records in our albums table
+  - [X] Use the DELETE statement to remove records from our database
+- Where
+  - [ ] Query our sample database using the WHERE clauses
