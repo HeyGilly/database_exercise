@@ -21,3 +21,9 @@
   - [X] Add the LIMIT clause to our existing queries
 - Functions
   - [X] Integrate MySQL's built-in functions into our existing queries
+- Group By
+  - [X] Use the GROUP BY clause to create more complex queries
+- Aliases
+  - [ ] Use aliases to create more readable output from our queries
+
+
