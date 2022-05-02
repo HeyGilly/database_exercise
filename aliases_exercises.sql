@@ -17,3 +17,14 @@ limit 10;
 SELECT concat(emp_no,' - ',last_name, ', ', first_name) full_name, birth_date DOB
 FROM employees
 limit 10;
+#
+# use employees;
+# describe employees;
+# DESCRIBE dept_emp;
+# DESCRIBE departments;
+#
+# use codeup_test_db;
+# describe albums;
+#
+# ALTER TABLE albums
+#     ADD UNIQUE (name);
