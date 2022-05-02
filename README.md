@@ -18,4 +18,6 @@
 - Order
   - [X] Use ORDER BY clauses to create more complex queries for our database
 - Limit
-  - [ ] Add the LIMIT clause to our existing queries
+  - [X] Add the LIMIT clause to our existing queries
+- Functions
+  - [X] Integrate MySQL's built-in functions into our existing queries
