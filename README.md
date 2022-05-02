@@ -24,6 +24,8 @@
 - Group By
   - [X] Use the GROUP BY clause to create more complex queries
 - Aliases
-  - [ ] Use aliases to create more readable output from our queries
-
+  - [X] Use aliases to create more readable output from our queries
+- Join
+  - [ ] Use JOIN, LEFT JOIN, and RIGHT JOIN statements on our Join Example DB
+  - [ ] Integrate aggregate functions and clauses into our queries with JOIN statements
 
